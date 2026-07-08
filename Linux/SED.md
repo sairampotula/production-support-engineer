@@ -32,8 +32,7 @@ sed -n -e '/tej/p' -e '/pavan/p' -e '/ntr/p' chiru (search multiple pattern by u
 
 
 
-SED (delete the records):
-
+### SED (delete the records):
 
 
 Use9:sed '3d' demo.txt (Here d means delete) (I t will delete 3rd record.But this line wont't be deleted in the file).
